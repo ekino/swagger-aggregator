@@ -1,0 +1,1 @@
+# Swagger spec aggregator
